@@ -1,5 +1,6 @@
 import React from 'react'
 import StateCard from './StateCard'
+import { stateNames, stateFlags } from '../data/states'
 
 function App() {
   return (
